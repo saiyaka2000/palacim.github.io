@@ -1141,6 +1141,10 @@ h3{
 .about .ab_img::before{
     display: none;
     }
+    #filter-list li{
+        margin-top: 2rem;
+          
+          }
 }
 
 @media(max-width:380px){
