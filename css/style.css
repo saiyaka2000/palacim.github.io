@@ -1136,7 +1136,7 @@ h3{
 }
 }
 
-@media(max-width:475px){
+@media(max-width:420px){
 
 .about .ab_img::before{
     display: none;
