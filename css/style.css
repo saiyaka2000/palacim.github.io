@@ -1136,6 +1136,12 @@ h3{
 }
 }
 
+@media(max-width:475px){
+
+.about .ab_img::before{
+    display: none;
+    }
+}
 
 @media(max-width:380px){
 
